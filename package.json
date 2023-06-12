@@ -9,9 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "install": "^0.13.0",
-    "libzt": "https://gitpkg.now.sh/janvanbouwel/libzt/src/bindings/nodejs?node-test-release",
-    "npm": "^9.7.1"
+    "libzt": "https://gitpkg.now.sh/janvanbouwel/libzt/src/bindings/nodejs?node-test-release"
   },
   "devDependencies": {
     "@types/node": "^20.3.0",
